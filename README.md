@@ -12,8 +12,8 @@ This project was published in 2021 ELECTRO congress [1] and it was inspired by B
 # Datasets
 A portion of three datasets were used for this project.
 1) Face Mask Detection dataset (Kaggle)
-2) MaskedFace-Net [2,3]
-3) CelebA
+2) MaskedFace-Net [3,4]
+3) CelebA [5]
 
 The reduced datasets can be downloaded [here](https://drive.google.com/drive/folders/1-1iwVY7gzeKFAERmCEPkn-W_MK2Y4A6r?usp=sharing)
 
@@ -34,6 +34,8 @@ To implement the trained system you have to run the maskdetector.py file, giving
 [3] Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", Smart Health, ISSN 2352-6483, Elsevier, 2020, DOI:10.1016/j.smhl.2020.100144
 
 [4] Karim Hammoudi, Adnane Cabani, Halim Benhabiles, and Mahmoud Melkemi,"Validating the correct wearing of protection mask by taking a selfie: design of a mobile application "CheckYourMask" to limit the spread of COVID-19", CMES-Computer Modeling in Engineering & Sciences, Vol.124, No.3, pp. 1049-1059, 2020, DOI:10.32604/cmes.2020.011663
+
+[5] Z. Liu, P. Luo, X. Wang and X. Tang, "Deep Learning Face Attributes in the Wild," 2015 IEEE International Conference on Computer Vision (ICCV), 2015, pp. 3730-3738, doi: 10.1109/ICCV.2015.425.
 
 # License
 https://creativecommons.org/licenses/by-nc-sa/4.0/
