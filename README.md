@@ -7,7 +7,7 @@ It consists of three stages:
 2) Feature extraction: a color analysis of specific face regions. The idea is to compare the color of the skin in the forhead or between the eyes with respect to the area between the nose and the mouth. A 2-dim feature vector is calculated for each detected face.
 3) Classifier: an SVM linear classifier with an accuracy score around 95%.
 
-This project was published in 2021 ELECTRO congress [1] and it was inspired in Buciu's color quotient method [2].
+This project was published in 2021 ELECTRO congress [1] and it was inspired by Buciu's color quotient method [2].
 
 # Datasets
 A portion of three datasets were used for this project.
